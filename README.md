@@ -2,7 +2,7 @@
 
 *Hello World*
 
-Matetika rehefa miresaka programmation na vao mianatra langage iray ianao dia io foana no hianarana avoakanao voalohany , 
+Matetika rehefa miresaka programmation na vao mianatra langage iray ianao dia io foana no hianarana avoakanao voalohany
 
 Andeha isika mba hijery tantara kely hoe avy aiza marina ny `Hello World` :
 
