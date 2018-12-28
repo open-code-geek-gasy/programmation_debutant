@@ -1,5 +1,4 @@
-```
-    const data = [8,1];
+```const data = [8,1];
     data.forEach( arr => {
       new Array(arr).fill('').forEach((v,item) => {
         let a = new Array(8-item).fill('.');
